@@ -13,8 +13,11 @@
 
 <!-- Snake Game Repo View -->
 
-![snake animation](https://github.com/<seu divyanshprajapati0710-tech>/<seu divyanshprajapati0710-tech>/blob/output/github-contribution-grid-snake2.svg)
+<div align="center">
+  
+![snake game](./github-contribution-grid-snake2.svg)
 
+<div/>
 
 # 📊 GitHub Stats:
 
