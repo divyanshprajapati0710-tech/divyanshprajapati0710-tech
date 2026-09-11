@@ -8,17 +8,6 @@
 * 📫 **How to reach me:** *GitHub or Email*
 * ⚡ **Fun fact:** *Passionate about transforming ideas into production-ready solutions 🚀*
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/divyan7h__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/divyansh-prajapati-510bb9385/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyanshprajapati0710@gmail.com) 
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  
-![snake game](./github-contribution-grid-snake2.svg)
-
-<div/>
-
 # 📊 GitHub Stats:
 
 <div align="center">
